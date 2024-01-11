@@ -34,5 +34,5 @@
 ![PCA](./pca.png)
 ![Snowflake DWH](./snowflake_dwh.png)
 ![CCAAK](./CCAAK.png)
-![CCDAK](./CCSAK.png)
+![CCDAK](./CCDAK.png)
 </p>
