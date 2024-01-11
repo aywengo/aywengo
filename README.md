@@ -34,9 +34,9 @@
 ![PCA](./pca.png)
 ![Snowflake DWH](./snowflake_dwh.png)
 <a href="https://www.credential.net/213038cb-63dd-4063-bfb3-a023c964e995">
-  <img src="./CCAAK.png" alt="CCAAK" width="120" height="120">
+  <img src="./CCAAK.png" alt="CCAAK" width="240" height="240">
 </a>
 <a href="https://www.credential.net/10411313-ec6b-4bae-9a3a-09a49bd5617a#gs.2xv01z">
-  <img src="./CCDAK.png" alt="CCDAK" width="120" height="120">
+  <img src="./CCDAK.png" alt="CCDAK" width="240" height="240">
 </a>
 </p>
