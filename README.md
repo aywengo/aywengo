@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on vidiq.com [vidiq.com](vidiq.com)
 
-- 📝 I regularly write articles on [https://medium.com/@aywengo](https://medium.com/@aywengo)
+- 📝 Sometimes I write articles on [Medium](https://medium.com/@aywengo)
 
 - 💬 Ask me about **Kubernetes, Apache Kafka, AWS**
 
