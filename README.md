@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Kubernetes, Apache Kafka, AWS**
 
-- 📫 How to reach me **aywengo@gmail.com**
+-  📫 How to reach me: [email](mailto:aywengo@gmail.com)
 
 - 📄 Know about my experiences [cv.melnyk.co](cv.melnyk.co)
 
