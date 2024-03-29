@@ -32,6 +32,7 @@
 ![Terraform Assosiate](./tf_ass.png)
 ![AWS Practitioner](./aws_prac.png)
 ![PCA](./pca.png)
+![CAPA](./capa.png)
 ![Snowflake DWH](./snowflake_dwh.png)
 <a href="https://www.credential.net/213038cb-63dd-4063-bfb3-a023c964e995">
   <img src="./CCAAK.png" alt="CCAAK" width="240" height="240">
