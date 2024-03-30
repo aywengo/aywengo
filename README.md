@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roman Melnyk</h1>
 <h3 align="center">A passionate Backend engineer with DevOPS and DataOPS experience</h3>
 
-- 🔭 I’m currently working on vidiq.com [vidiq.com](vidiq.com)
+- 🔭 I’m currently working on [vidiq.com](vidiq.com)
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@aywengo)
 
