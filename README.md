@@ -29,6 +29,7 @@
 ![CKA](./cka.png)
 ![CKAD](./ckad.png)
 ![KCNA](./kcna.png)
+![KCSA](./kcsa.png)
 ![Terraform Assosiate](./tf_ass.png)
 ![AWS Practitioner](./aws_prac.png)
 ![PCA](./pca.png)
