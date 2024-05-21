@@ -24,6 +24,7 @@
 <h3 align="left">Cetifications:</h3>
 <p align="left"><p align="left">
 
+![CKS](./cks.png)
 ![CKA](./cka.png)
 ![CKAD](./ckad.png)
 ![KCNA](./kcna.png)
