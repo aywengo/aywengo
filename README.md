@@ -15,6 +15,7 @@
 - **[Strimzi Drain Cleaner](https://github.com/strimzi/drain-cleaner)**: namespace filtering ([#164](https://github.com/strimzi/drain-cleaner/pull/164), proposal [strimzi/proposals#162](https://github.com/strimzi/proposals/pull/162))
 - **[kafka-backup](https://github.com/osodevops/kafka-backup)**: restore circuit breaker config and global restore stall fix ([#199](https://github.com/osodevops/kafka-backup/pull/199))
 - **[oMLX](https://github.com/jundot/omlx)**: size U32-packed MLX quants from Hub blob bytes ([#3419](https://github.com/jundot/omlx/pull/3419)), configurable audio upload cap ([#3160](https://github.com/jundot/omlx/pull/3160))
+- **[Orca](https://github.com/stablyai/orca)**: discover Prime Agent skills in `<repo>/.prime/agent/skills` ([#47019](https://github.com/stablyai/orca/pull/47019))
 
 <h3 align="left">My open-source projects:</h3>
 
