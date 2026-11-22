@@ -30,6 +30,8 @@
 <a href="https://linkedin.com/in/aywengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aywengo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/877031/roman-melnyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/877031/roman-melnyk" height="30" width="40" /></a>
 <a href="https://medium.com/@aywengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aywengo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@theaywengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TheAywengo on YouTube" height="30" width="40" /></a>
+<a href="https://huggingface.co/aywengo" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="aywengo on Hugging Face" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
