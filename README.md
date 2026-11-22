@@ -9,6 +9,21 @@
 
 - 📄 Know about my experiences [cv.melnyk.co](cv.melnyk.co)
 
+<h3 align="left">Open-source contributions:</h3>
+
+- **[Apache Pulsar](https://github.com/apache/pulsar)**: match namespace isolation policy brokers given as host:port ([#26829](https://github.com/apache/pulsar/pull/26829))
+- **[Strimzi Drain Cleaner](https://github.com/strimzi/drain-cleaner)**: namespace filtering ([#164](https://github.com/strimzi/drain-cleaner/pull/164), proposal [strimzi/proposals#162](https://github.com/strimzi/proposals/pull/162))
+- **[kafka-backup](https://github.com/osodevops/kafka-backup)**: restore circuit breaker config and global restore stall fix ([#199](https://github.com/osodevops/kafka-backup/pull/199))
+- **[oMLX](https://github.com/jundot/omlx)**: size U32-packed MLX quants from Hub blob bytes ([#3419](https://github.com/jundot/omlx/pull/3419)), configurable audio upload cap ([#3160](https://github.com/jundot/omlx/pull/3160))
+
+<h3 align="left">My open-source projects:</h3>
+
+- **[kafka-schema-reg-mcp](https://github.com/aywengo/kafka-schema-reg-mcp)**: MCP server for Kafka Schema Registry
+- **[ksr-cli](https://github.com/aywengo/ksr-cli)**: CLI for Kafka Schema Registry
+- **[kafka-schema-reg-migrator](https://github.com/aywengo/kafka-schema-reg-migrator)**: Kafka Schema Registry migrator
+- **[kafka-brokers-mcp](https://github.com/aywengo/kafka-brokers-mcp)**: MCP server for Kafka broker operations
+- **[kafka-sre-llm](https://github.com/aywengo/kafka-sre-llm)**: a local Kafka / Strimzi / Kubernetes / Argo CD SRE model for Apple Silicon
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aywengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aywengo" height="30" width="40" /></a>
